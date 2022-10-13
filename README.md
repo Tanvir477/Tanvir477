@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanvir477
-- 👀 I’m interested in making New and diffrent website
+- 👀 I’m interested in making New and different website
 - 🌱 I’m currently learning fullstack web developing
 
 - 📫 How to reach me 
